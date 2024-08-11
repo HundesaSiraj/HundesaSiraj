@@ -2,7 +2,7 @@
 - 👀 I’m interested in Climate Data analysis
 - 🌱 I’m currently learning Quantum GIS and online Climate reanalysis and Climate projection
 - 💞️ I’m looking to collaborate on Climate data analysis
-- 📫 How to reach me through linkden profile as Hundesa Siraj
+- 📫 How to reach me through linkden profile as Hundesa Siraj Mohammed (https://www.linkedin.com/in/hundesa-siraj-mohammed-69a12219a/)
   
 
 <!---
