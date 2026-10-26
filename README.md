@@ -10,7 +10,6 @@ data, climate records and hydrological models into maps, tools and decisions.
 
 - 🛰️ **Remote sensing** — satellite imagery analysis for water and land resources
 - 🌧️ **Climate data analysis** — rainfall and climate time series, hydrological statistics
-- 💧 **Hydrogeology** — groundwater and catchment studies
 - 🌍 **WebGIS and QGIS development** — interactive maps and plugins that make data usable
 
 ### Featured project
